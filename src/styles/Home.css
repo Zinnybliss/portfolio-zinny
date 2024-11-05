@@ -1,0 +1,12 @@
+
+.home {
+    text-align: center;
+    padding: 2em;
+  }
+  
+  .profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
